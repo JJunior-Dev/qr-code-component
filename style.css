@@ -50,9 +50,10 @@ body {
     padding: 1.5rem .6rem;
 }
 
-.text h2 {
+.text h1 {
     color: hsl(218, 44%, 22%);
     padding-bottom: 1rem;
+    font-size: 1.3rem;
 }
 
 .text p {
