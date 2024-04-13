@@ -22,6 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- LinkedIn - [Jailton Junior](https://www.linkedin.com/in/dev-jjunior/)
 - Solution URL: [https://www.frontendmentor.io/solutions/html5-css-flexbox-gkbT_klSxz](https://www.frontendmentor.io/solutions/html5-css-flexbox-gkbT_klSxz)
 
 ## My process
@@ -50,5 +51,6 @@ I am still not comfortable with "flexbox" property but i want to refine and perf
 
 ## Author
 
-- Website - [GITHUB - JJunior-Dev](https://github.com/JJunior-Dev)
+- LinkedIn - [Jailton Junior](https://www.linkedin.com/in/dev-jjunior/)
+- GitHub - [JJunior-Dev](https://github.com/JJunior-Dev)
 - Frontend Mentor - [@JJunior-Dev](https://www.frontendmentor.io/profile/JJunior-Dev)
